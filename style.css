@@ -1,0 +1,13 @@
+/* Centraliza o canvas na tela */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #111;
+}
+
+/* Canvas com fundo escuro para destacar os desenhos */
+canvas {
+  background: #000;
+}
